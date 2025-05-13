@@ -1,0 +1,9 @@
+﻿  Client.cpp
+C:\OurStory\MapleEzorsia-v2\ezorsia\Client.cpp(600,75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\OurStory\MapleEzorsia-v2\\out\Release\dinput8.lib and object C:\OurStory\MapleEzorsia-v2\\out\Release\dinput8.exp
+  Generating code
+  1 of 829 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ezorsia.vcxproj -> C:\OurStory\MapleEzorsia-v2\out\Release\dinput8.dll
